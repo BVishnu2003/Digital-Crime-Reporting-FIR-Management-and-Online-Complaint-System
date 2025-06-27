@@ -3,4 +3,3 @@ In the contemporary digital landscape, the limitations of traditional crime repo
 
 KEYWORDS:
                Digital FIR, Online Complaint, Crime Reporting System, AES, SHA-256, JSP, Servlet, MySQL, Law Enforcement, E-Governance,Citizen-Centric Services, Digital Transformation. 
-![Uploading image1.png…]()
